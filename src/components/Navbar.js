@@ -29,7 +29,7 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                        TEMP <i className="fas fa-map-marked"></i>
+                        Treval <i className="fas fa-compass">  </i>
                     </Link>
                     <div className="menu-icon" onClick={handleClick}>
                         <i className={click ? "fas fa-times": "fas fa-bars"} />
