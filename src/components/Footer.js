@@ -71,6 +71,17 @@ function Footer() {
                         <Link to="/" target="_blank" aria-label="Facebook" className="social-icon-link facebook">
                         <i className="fab fa-facebook-f"></i>
                         </Link>
+                        <Link to="/" target="_blank" aria-label="Instagram" className="social-icon-link facebook">
+                        <i className="fab fa-instagram"></i>
+                        </Link><Link to="/" target="_blank" aria-label="Twitter" className="social-icon-link facebook">
+                        <i className="fab fa-twitter-square"></i>
+                        </Link>
+                        <Link to="/" target="_blank" aria-label="Snapchat" className="social-icon-link facebook">
+                        <i className="fab fa-snapchat-square"></i>
+                        </Link>
+                        <Link to="/" target="_blank" aria-label="Linkedin" className="social-icon-link facebook">
+                        <i className="fab fa-linkedin"></i>
+                        </Link>
                     </div>
                 </div>
             </section>
